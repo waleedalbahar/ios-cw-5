@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "background.dms",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
